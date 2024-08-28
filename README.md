@@ -7,15 +7,25 @@
 # AIM:
 To Develop a python program to Plot a time series data (cinema ticket)
 # ALGORITHM:
+
 1.Load the necessary libraries for data manipulation and visualization.
+
 2.Read the data from the CSV file into a DataFrame.
+
 3.Change the 'date' column to datetime format for time series analysis.
+
 4.Aggregate the total sales data by month and compute the average.
+
 5.Aggregate the total sales data by year and compute the average.
+
 6.Set up the plot with the desired figure size.
+
 7.Plot the monthly average sales data with a line graph and label it.
+
 8.Include axis labels, a title, and a legend for clarity.
+
 9.Show the plot to visualize the results.
+
 # PROGRAM
 ```
 import pandas as pd
